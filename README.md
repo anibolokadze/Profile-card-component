@@ -20,3 +20,5 @@ The designs were created to the following widths:
 - Mobile-first workflow
 
 ## What I learned
+The main difficulty I ran into was how to show the background images according to the design. 
+I have not used background-position before so, it was my first time trying it. 🚀
