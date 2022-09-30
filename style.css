@@ -21,11 +21,12 @@ body{
 
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position:
-                        left calc(50% - 520px) 
-                        top calc(50% - 370px), 
-                        left calc(50% + 460px) 
-                        top calc(50% + 500px);
+    background-position: 
+        left calc(50% - 553px) 
+        top calc(50% - 315px), 
+        left calc(50% + 438px) 
+        top calc(50% + 500px);
+
 }
 
 
@@ -119,13 +120,6 @@ body{
 
 
 @media (min-width:1440px) {
-    body{
-        background-position:
-            left calc(60% - 520px) 
-            top calc(50% - 370px), 
-            left calc(40% + 460px) 
-            top calc(50% + 500px);
-    }
     .main-container{
         max-width: 350px;
         height: 374px;
