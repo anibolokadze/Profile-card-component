@@ -4,6 +4,8 @@ This is solution to <a href="https://www.frontendmentor.io/challenges/profile-ca
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+Live Site URL: https://anibolokadze.github.io/Profile-card-component/
+
 ![desktop-design](https://user-images.githubusercontent.com/89190087/193260019-3e124f2e-5451-40f9-9cfc-690079b817e7.jpg)
 
 
