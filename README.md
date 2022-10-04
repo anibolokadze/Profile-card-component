@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-This is solution to <a gref="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">Profile card component on Frontend Mentor.</a>
+This is solution to <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">Profile card component on Frontend Mentor.</a>
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 ![desktop-design](https://user-images.githubusercontent.com/89190087/193260019-3e124f2e-5451-40f9-9cfc-690079b817e7.jpg)
